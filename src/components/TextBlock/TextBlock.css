@@ -1,0 +1,15 @@
+.TextBlock {
+    height: 280px;
+    width: 100%;
+    background-color: black;
+}
+
+.Text {
+    width: 50%;
+    color: white;
+    font-size: 20px;
+    padding-top: 100px;
+    padding-left: 350px;
+    line-height: 30px;
+    text-align: left;
+}

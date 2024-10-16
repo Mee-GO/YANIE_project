@@ -1,0 +1,32 @@
+.Nav {
+    /*height: 70px;*/
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Buttons {
+    padding-top: 10px;
+    margin-right: 200px;
+}
+
+.Button {
+    background: black;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.Button:hover {
+    color: #17ff00;
+    text-decoration: underline;
+}
+
+.Logo_block {
+    margin-left: 230px;
+    cursor: pointer;
+}
+

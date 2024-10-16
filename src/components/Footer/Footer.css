@@ -1,0 +1,23 @@
+.Footer {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Buttons {
+    margin-top: 10px;
+}
+
+.Button {
+    background: black;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+

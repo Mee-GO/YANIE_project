@@ -1,0 +1,24 @@
+.Info {
+    height: 546px;
+    width: 100%;
+    background-image: url("https://optim.tildacdn.pub/tild3066-3863-4538-b064-323165383662/-/format/webp/viktor-forgacs-3PyBk.jpg");
+    background-size: cover;
+}
+
+.Text_block {
+    padding-top: 200px;
+    padding-left: 250px;
+    width: 50%;
+    color: white;
+    text-align: left;
+}
+
+.Text_block_title {
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.Text_block_info {
+    font-size: 20px;
+}

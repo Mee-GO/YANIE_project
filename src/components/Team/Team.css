@@ -1,0 +1,45 @@
+.Team {
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.Team_title {
+    padding-top: 10px;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.Team_members {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 70%;
+    margin-left: 250px;
+}
+
+.Team_member {
+    width: 180px;
+    height: 100px;
+    padding: 20px;
+
+}
+
+.Team_member_logo {
+    margin-top: 10px;
+}
+
+.Team_member_title {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Team_member_text {
+    margin-top: 10px;
+    font-weight: 300;
+}
+
+
