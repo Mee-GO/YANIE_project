@@ -1,0 +1,102 @@
+.Cabinet {
+    height: 400px;
+    width: 350px;
+    background-color: black;
+    margin-top: 50px;
+    color: white;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 50px;
+}
+
+.Cabinet_info {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.Cabinet_info_item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Cabinet_info_item_left {
+    margin-left: 20px;
+}
+
+.Cabinet_info_item_right {
+    margin-right: 20px;
+    color: #b6b6b6;
+}
+
+.Agreement_block {
+    margin-top: 30px;
+    color: white;
+}
+
+.Agreement_block_item {
+    display: flex;
+    flex-direction: column;
+}
+
+.Agreement_block_item_link {
+    color: white;
+    text-decoration: none;
+}
+
+.Cabinet_buttons {
+    width: 90%;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    margin-right: 200px;
+    justify-content: space-between;
+}
+
+.Cabinet_button {
+    background: black;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.Cabinet_button:hover {
+    color: #17ff00;
+    text-decoration: underline;
+}
+
+.Cabinet_footer {
+    width: 90%;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    margin-right: 200px;
+    justify-content: space-between;
+}
+
+.Cabinet_footer_logo {
+
+}
+
+.Cabinet_footer_navigation_button {
+    border: 1px solid white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.Cabinet_footer_navigation_button:hover {
+    border: 1px solid #17ff00;
+    color: #17ff00;
+}
+

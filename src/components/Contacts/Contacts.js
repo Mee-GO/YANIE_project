@@ -4,9 +4,17 @@ function Contacts() {
     return (
         <div className="Contacts">
             <div className="Text">
-                <div>
-                    Не хочешь терять деньги, а 19% в банке не кажутся большими?Инвестиционная компания,
-                    работающая с рынком криптовалют по принципу доверительного управления возьмёт всё на себя
+                <div className="Text_title">
+                    Контакты
+                </div>
+                <div className="Contacts_info">
+                 <div>Телефон: +7 963 150 82 47</div>
+                 <div>Почта: Iaiukotelnikov@edu.hse.ru</div>
+                </div>
+                <div className="Contacts_links">
+                    Мы в соцсетях
+                    {/*<button> ТГ </button>*/}
+                    {/*<button> WA </button>*/}
                 </div>
             </div>
         </div>

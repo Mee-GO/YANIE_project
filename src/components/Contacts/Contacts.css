@@ -6,6 +6,24 @@
 
 .Text {
     width: 50%;
-    color: white;
     margin-left: 50px;
+    color: black;
+}
+
+.Text_title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.Contacts_info {
+    font-size: 26px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+
+.Contacts_links {
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 20px;
 }
